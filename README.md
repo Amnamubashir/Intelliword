@@ -1,5 +1,10 @@
 # 🧠 IntelliWord - AI-Powered Word Search Game
 
+## Partners:
+- Muhammad Sameer ([Sameer-4359](https://github.com/Sameer-4359))
+- Shaheer Mustafa Awan ([ShaheerMustafaAwan](https://github.com/ShaheerMustafaAwan))
+- Amna Mubashir ([Amnamubashir](https://github.com/Amnamubashir))
+
 ## 🎮 Overview
 
 IntelliWord is an advanced AI-powered word search game developed using Python and Pygame. Unlike traditional word search games, IntelliWord introduces four dynamic game modes and an intelligent AI opponent that competes against the player in real-time. The AI utilizes a directionally constrained DFS algorithm to find words with 100% accuracy, providing a challenging and engaging experience for players.
